@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\alice\desktop\hk1006\hw2.31\source\source.cpp(7): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\alice\desktop\hk1006\hw2.31\source\source.cpp(8): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  LINK : 最後的累加連結找不到或未建置 C:\Users\alice\Desktop\HK1006\HW2.31\HW2.31\Debug\HW2.31.exe，正在執行完整連結
+  HW2.31.vcxproj -> C:\Users\alice\Desktop\HK1006\HW2.31\HW2.31\Debug\HW2.31.exe
